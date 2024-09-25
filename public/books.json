@@ -1,0 +1,80 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://ibb.co.com/hdqR14x",
+        "review": "A profound novel exploring themes of racial injustice and moral growth.",
+        "totalPages": 324,
+        "rating": 4.9,
+        "category": "Fiction",
+        "tags": ["Classic", "Courtroom Drama", "Social Justice"],
+        "publisher": "J.B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": 2,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://ibb.co.com/SwCVXqT",
+        "review": "A dystopian novel that critiques totalitarian regimes and extreme political ideology.",
+        "totalPages": 328,
+        "rating": 4.8,
+        "category": "Science Fiction",
+        "tags": ["Dystopia", "Political Fiction", "Surveillance"],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 3,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://ibb.co.com/dtqSMPF",
+        "review": "A tragic tale of love, ambition, and the American Dream set in the Jazz Age.",
+        "totalPages": 180,
+        "rating": 4.6,
+        "category": "Classic",
+        "tags": ["Romance", "Tragedy", "Wealth"],
+        "publisher": "Charles Scribner's Sons",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": 4,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://ibb.co.com/0Jqmw3P",
+        "review": "A witty and romantic novel about the manners and matrimonial machinations of British society.",
+        "totalPages": 279,
+        "rating": 4.7,
+        "category": "Romance",
+        "tags": ["Romantic Fiction", "Social Commentary", "Family"],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813
+    },
+    {
+        "bookId": 5,
+        "bookName": "Moby-Dick",
+        "author": "Herman Melville",
+        "image": "https://ibb.co.com/QKvjymf",
+        "review": "An epic sea story of Captain Ahab's obsession with a giant white whale.",
+        "totalPages": 635,
+        "rating": 4.5,
+        "category": "Adventure",
+        "tags": ["Sea Adventure", "Obsession", "Whaling"],
+        "publisher": "Harper & Brothers",
+        "yearOfPublishing": 1851
+    },
+    {
+        "bookId": 6,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://ibb.co.com/dKczj8d",
+        "review": "A story about teenage rebellion and alienation told through the eyes of Holden Caulfield.",
+        "totalPages": 277,
+        "rating": 4.4,
+        "category": "Literary Fiction",
+        "tags": ["Coming of Age", "Rebellion", "Identity"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    }
+]
